@@ -1,2 +1,4 @@
 *.pyc
 .DS_Store
+syte/static/css/*
+syte/static/js/min/*
